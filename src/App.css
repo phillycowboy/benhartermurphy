@@ -1,5 +1,20 @@
 .App {
-  text-align: center;
+	text-align: center;
+}
+* {
+	list-style: none;
+}
+#navbar {
+	background-color: grey;
+	display: flex;
+	justify-content: left;
+	align-items: left;
+	float: left;
+  width: 100%;
+}
+#navbar li {
+	display: inline;
+	padding-right: 10px;
 }
 
 /* .App-logo {
