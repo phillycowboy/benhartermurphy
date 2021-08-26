@@ -10,43 +10,43 @@ class Nav extends Component{
                         <NavLink
                         exact
                         to= "/"
-                        style={{color: 'purple'}}
+                        style={{ textDecorationLine: 'none', color: "#66FCF1"}}
                         >
-                            BHM
+                            BHM |
                         </NavLink>
                     </li>
                     <li>
                         <NavLink
                         exact
                         to= "/about"
-                        style={{color: 'purple'}}
+                        style={{textDecorationLine: 'none', color: "#66FCF1"}}
                         >
-                            ABOUT
+                            ABOUT |
                         </NavLink>
                     </li>
                     <li>
                         <NavLink
                         exact
                         to= "/projects"
-                        style={{color: 'purple'}}
+                        style={{textDecorationLine: 'none', color: "#66FCF1"}}
                         >
-                            PROJECTS
+                            PROJECTS |
                         </NavLink>
                     </li>
                     <li>
                         <NavLink
                         exact
                         to= "/resume"
-                        style={{color: 'purple'}}
+                        style={{textDecorationLine: 'none', color: "#66FCF1"}}
                         >
-                            RESUME
+                            RESUME |
                         </NavLink>
                     </li>
                     <li>
                         <NavLink
                         exact
                         to= "/contact"
-                        style={{color: 'purple'}}
+                        style={{textDecorationLine: 'none', color: "#66FCF1"}}
                         >
                             CONTACT
                         </NavLink>

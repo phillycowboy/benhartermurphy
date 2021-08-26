@@ -4,7 +4,13 @@ class Home extends Component{
     render(){
         return(
             <div id="home">
-                <h1>HOME</h1>
+                <div id="headshot-div">
+                    <img src="headshot.JPG" alt="my face"/>
+                </div>
+                <div id="name-div">
+                    <h1>Ben Harter-Murphy</h1>
+                    <h1>Full Stack Web Developer</h1>
+                </div>
             </div>
         )
     }
