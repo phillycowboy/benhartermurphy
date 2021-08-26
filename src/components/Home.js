@@ -5,11 +5,11 @@ class Home extends Component{
         return(
             <div id="home">
                 <div id="headshot-div">
-                    <img src="headshot.JPG" alt="my face"/>
+                    <img src="headshot.JPG" alt="my face" class="fade-in-left"/>
                 </div>
                 <div id="name-div">
-                    <h1>Ben Harter-Murphy</h1>
-                    <h1>Full Stack Web Developer</h1>
+                    <h1 id="name" class="slide-in-right">Ben Harter-Murphy</h1>
+                    <h1 id="title" class="slide-in-right">Full Stack Web Developer</h1>
                 </div>
             </div>
         )
