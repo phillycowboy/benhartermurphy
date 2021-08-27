@@ -7,6 +7,7 @@ import AboutContainer from './containers/AboutContainer';
 import ProjectsContainer from './containers/ProjectsContainer';
 import ResumeContainer from './containers/ResumeContainer';
 import ContactContainer from './containers/ContactContainer';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           </Route>
         </Switch>
       </Router>
+    <Footer />
     </div>
   );
 }
