@@ -47,7 +47,25 @@ body {
 }
 #about-div {
 	padding-top: 200px;
+	padding-left: 300px;
+	padding-right: 300px;
 	color: #66fcf1;
+}
+#about h1 {
+	color: #45a29e;
+	font-weight: 400;
+	text-shadow: 2px 2px #1f2833;
+}
+#about h5 {
+	color: #1f2833;
+	font-weight: 400;
+}
+#about {
+	border: 7px solid #66fcf1;
+	background-color: #c5c6c7;
+	font-weight: 700;
+	font-size: 25px;
+	border-radius: 10px;
 }
 #projects-div {
 	padding-top: 200px;
