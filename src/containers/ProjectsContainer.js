@@ -1,12 +1,16 @@
 import React, {Component} from 'react'
 import Projects from '../components/Projects'
+import projectsData from '../assests/data/projectsData.json'
 
 class ProjectsContainer extends Component{
     render(){
         return(
-            <div id="projects-div">
-                <Projects />
-            </div>
+            projectsData.map((project, index) => {
+                return <div id="projects-div">
+                            <Projects key={index} project={project}/>
+                       </div>
+
+            })
         )
     }
 }
