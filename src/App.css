@@ -80,16 +80,17 @@ body {
 }
 #projects-front {
 	border: 7px solid #66fcf1;
-	background-color: #c5c6c7;
+	background-color: #1f2833;
 	border-radius: 10px;
+	padding-bottom: 15px;
 }
 #projects-front h4 {
-	color: #1f2833;
+	color: #45a29e;
 }
 
 #projects-back {
 	border: 7px solid #66fcf1;
-	background-color: #c5c6c7;
+	background-color: #1f2833;
 	border-radius: 10px;
 	width: inherit;
 	height: 473px;
@@ -97,6 +98,9 @@ body {
 #projects-front button,
 #projects-back button {
 	color: #45a29e;
+	font-size: 25px;
+	background-color: #0b0c10;
+	/* padding-bottom: 10px; */
 }
 #projects-front h1 {
 	color: #45a29e;
@@ -127,10 +131,10 @@ body {
 	padding-top: 150px;
 	padding-right: 20px;
 }
-#projects-front button,
+/* #projects-front button,
 #projects-back button {
 	font-size: 25px;
-}
+} */
 
 #resume-div {
 	padding-top: 200px;
