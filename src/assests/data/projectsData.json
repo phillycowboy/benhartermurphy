@@ -4,16 +4,14 @@
         "projectName": "First Responder",
         "githubLink": "https://github.com/phillycowboy/first_responder_frontend",
         "youtubeLink": "https://www.youtube.com/watch?v=5NqnJ7IEzPk&list=TLPQMjkwODIwMjEZ5ToDp6xMfw&index=1",
-        "languages": "React/Redux, Rails",
-        "imagePath": "FirstResponder.png"
+        "languages": "React/Redux, Rails"
     },
     {
         "id": 2,
         "projectName": "Tasker",
         "githubLink": "https://github.com/phillycowboy/js-test-project-2021-frontend",
         "youtubeLink": "https://www.youtube.com/watch?v=mE7suaFpxQ4&t=3s",
-        "languages": "JavaScript, Rails",
-        "imagePath": "Tasker.png"
+        "languages": "JavaScript, Rails"
 
     },
     {
@@ -21,8 +19,7 @@
         "projectName": "Click",
         "githubLink": "https://github.com/phillycowboy/Click_rails_project",
         "youtubeLink": "https://www.youtube.com/watch?v=Gd1NnRO9v1c&t=1s",
-        "languages": "Rails",
-        "imagePath": "Click.png"
+        "languages": "Rails"
 
     },
     {
@@ -30,17 +27,15 @@
         "projectName": "BlogBook",
         "githubLink": "https://github.com/phillycowboy/blog-book-sinatra-web-app",
         "youtubeLink": "https://www.youtube.com/watch?v=xEwroofjzCY",
-        "languages": "Sinatra",
-        "imagePath": "./BlogBook.png"
+        "languages": "Sinatra"
 
     },
-        {
+    {
         "id": 5,
         "projectName": "Happy Hour",
         "githubLink": "https://github.com/phillycowboy/happyhour",
         "youtubeLink": "https://www.youtube.com/watch?v=5yODZ_RMP0s",
-        "languages": "Ruby",
-        "imagePath": "HappyHour.png"
+        "languages": "Ruby"
 
     }
 ]
