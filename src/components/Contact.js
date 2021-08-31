@@ -5,11 +5,42 @@ class Contact extends Component{
         return(
             <div id="contact">
                 <h1>CONTACT</h1>
-                <h5>Put contact here for email and telephone number add icons</h5>
-                <h5>Put githu, likedin and facebook medium handle with icons</h5>
-                <h5>Make card to display it</h5>
-                <h5>If you have time make a contact send you a message feature research it and see how to do it</h5>
-                <h5>Put a link to your github and medium on nav</h5>
+                <ul>
+
+                    <li>
+                        <div id="icon">
+                            <i class="fas fa-phone-alt"></i>
+                        </div>
+                        <div id="data">
+                            919-389-0480
+                        </div>
+
+                    </li><br/>
+                    <li>
+                        <div id="icon">
+                            <i class="fab fa-github"></i>
+                        </div>
+                        <div id="data">
+                            <a href="https://github.com/phillycowboy">phillycowboy</a>
+                        </div>
+                    </li><br/>
+                    <li>
+                        <div id="icon">
+                            <i class="fab fa-linkedin"></i>
+                        </div>
+                        <div id="data">
+                            <a href="https://www.linkedin.com/in/benhartermurphy/">LinkedIn</a>
+                        </div>
+                    </li><br/>
+                    <li>
+                        <div id="icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div id="data">
+                            <a href="mailto:benhartermurphy@gmail.com" target="_blank" rel="noopener noreferrer">benhartermurphy@gmail.com</a>
+                        </div>
+                    </li><br/>
+                </ul>
             </div>
         )
     }

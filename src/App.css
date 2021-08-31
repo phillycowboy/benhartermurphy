@@ -36,6 +36,7 @@ body {
 	padding-right: 15px;
 	font-size: 35px;
 	color: #66fcf1;
+	/* text-shadow: 1px 1px #c5c6c7; */
 }
 
 #home-div {
@@ -77,7 +78,40 @@ body {
 }
 #contact-div {
 	padding-top: 200px;
+	padding-left: 350px;
+	padding-right: 350px;
 	color: #66fcf1;
+	/* font-size: 25px; */
+}
+#contact h1 {
+	color: #45a29e;
+	font-weight: 400;
+	text-shadow: 2px 2px #1f2833;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 55px;
+}
+#contact i {
+	color: #45a29e;
+	font-size: 35px;
+	padding-right: 10px;
+}
+#contact li {
+	color: #1f2833;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 400;
+}
+#contact a:any-link {
+	color: #1f2833;
+}
+#contact {
+	border: 7px solid #66fcf1;
+	background-color: #c5c6c7;
+	border-radius: 10px;
+	font-size: 25px;
 }
 
 #headshot-div img {
