@@ -185,12 +185,12 @@ body {
 
 #headshot-div img {
 	width: 400px;
-	/* max-width: 100%; */
-	/* min-width: 25%; */
+	max-width: 100%;
+	min-width: 25px;
 	height: auto;
-	display: flex;
-	justify-content: left;
-	align-items: center;
+	/* display: flex; */
+	/* justify-content: left; */
+	/* align-items: center; */
 	border-radius: 10px;
 	margin-left: 20px;
 	padding: 1px;
