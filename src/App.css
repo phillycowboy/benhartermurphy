@@ -19,9 +19,9 @@
 body {
 	background-color: #0b0c10;
 	scroll-behavior: smooth;
-	max-width: 100%;
+	/* max-width: 100%;
 	height: auto;
-	min-width: 50px;
+	min-width: 50px; */
 }
 #navbar {
 	background-color: #1f2833;
@@ -54,8 +54,8 @@ body {
 	height: auto;
 	padding-top: 200px;
 	color: #c5c6c7;
-	padding-left: 300px;
-	padding-right: 400px;
+	padding-left: 15%;
+	padding-right: 15%;
 	text-align: justify;
 }
 #about-div {
