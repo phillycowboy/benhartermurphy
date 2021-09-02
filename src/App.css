@@ -186,6 +186,7 @@ body {
 #headshot-div img {
 	width: 400px;
 	max-width: 100%;
+	min-width: 25%;
 	height: auto;
 	display: flex;
 	justify-content: left;
