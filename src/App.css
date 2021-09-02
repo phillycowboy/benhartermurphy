@@ -6,7 +6,10 @@
 	#45A29E
 
 */
-
+@viewport {
+	width: device-width;
+	zoom: 1;
+}
 .App {
 	text-align: center;
 	max-width: 100%;
