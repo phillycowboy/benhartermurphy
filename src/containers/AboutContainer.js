@@ -4,7 +4,7 @@ import About from '../components/About'
 class AboutContainer extends Component{
     render(){
         return(
-            <div id="about-div">
+            <div id="about-div" className="slide-in-right">
                 <About />
             </div>
         )

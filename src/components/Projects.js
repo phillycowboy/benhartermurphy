@@ -6,7 +6,7 @@ const Projects = ({project}) => {
     const [isFlipped, setIsFlipped] = useState(false)
         return(
             <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
-                <div id="projects-front">
+                <div id="projects-front" >
                     <h1>{project.projectName}</h1>
                     <img src={project.imagePath} alt="screenshot"/>
                     <h4>Built With: {project.languages}</h4>

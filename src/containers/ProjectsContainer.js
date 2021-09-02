@@ -6,7 +6,7 @@ class ProjectsContainer extends Component{
     render(){
         return(
             projectsData.map((project, index) => {
-                return <div id="projects-div">
+                return <div id="projects-div" class="fade-in-bck">
                             <Projects key={index} project={project}/>
                        </div>
 
