@@ -89,11 +89,17 @@ body {
 	padding-right: 400px;
 	padding-bottom: 200px;
 	color: #1f2833;
+	width: auto;
+	height: auto;
+	min-width: 75px;
 	/* color: #66fcf1; */
 }
 #projects-front {
 	border: 7px solid #66fcf1;
 	background-color: #1f2833;
+	/* width: 100%;
+	height: auto;
+	min-width: 75px; */
 	border-radius: 10px;
 	padding-bottom: 15px;
 }
