@@ -29,6 +29,7 @@ body {
 	z-index: 1;
 	top: 0;
 	width: 100%;
+	height: auto;
 	margin-bottom: 20px;
 	padding-top: 20px;
 	box-shadow: 0 5px 5px -2px rgba(0, 0, 0, .2);
@@ -42,6 +43,8 @@ body {
 }
 
 #home-div {
+	max-width: 100%;
+	height: auto;
 	padding-top: 200px;
 	color: #c5c6c7;
 	padding-left: 300px;
