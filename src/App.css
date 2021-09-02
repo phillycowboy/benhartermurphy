@@ -217,7 +217,7 @@ body {
 	min-width: 50px;
 	height: auto;
 	display: flex;
-	justify-content: left;
+	justify-content: center;
 	align-items: center;
 	border-radius: 10px;
 	margin-left: 20px;
