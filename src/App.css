@@ -125,7 +125,9 @@ body {
 }
 #projects-front img {
 	/* position: absolute; */
-	height: 300px;
+	width: 100%;
+	min-width: 50px;
+	height: auto;
 	border: 2px solid #1f2833;
 	border-radius: 5px;
 }
