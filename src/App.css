@@ -73,12 +73,12 @@ body {
 	text-shadow: 2px 2px #1f2833;
 }
 #about h5 {
-	color: #1f2833;
+	color: #45a29e;
 	font-weight: 400;
 }
 #about {
 	border: 7px solid #66fcf1;
-	background-color: #c5c6c7;
+	background-color: #1f2833;
 	font-weight: 700;
 	font-size: 25px;
 	border-radius: 10px;
@@ -183,18 +183,18 @@ body {
 	padding-right: 10px;
 }
 #contact li {
-	color: #1f2833;
+	color: #45a29e;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	font-weight: 400;
 }
 #contact a:any-link {
-	color: #1f2833;
+	color: #45a29e;
 }
 #contact {
 	border: 7px solid #66fcf1;
-	background-color: #c5c6c7;
+	background-color: #1f2833;
 	border-radius: 10px;
 	font-size: 25px;
 }
