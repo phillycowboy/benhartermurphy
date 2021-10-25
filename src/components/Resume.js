@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-// import resume from 'bhm-portfolio/public/bhm_creddle_res_oct2021 copy.jpg'
 
 class Resume extends Component{
     render(){
