@@ -1,12 +1,13 @@
 import React, {Component} from 'react';
+// import resume from 'bhm-portfolio/public/bhm_creddle_res_oct2021 copy.jpg'
 
 class Resume extends Component{
     render(){
         return(
             <div id="resume">
                 <h1>RESUME</h1>
-                <p>Its A Link Too!</p>
-                <a href="https://resume.creddle.io/resume/ikk1mkeet2m"><img src="resume screen shot.png" alt="resume"/></a><br></br>
+                <p>It's a Link Too!</p>
+                <a href="https://resume.creddle.io/resume/ikk1mkeet2m"><img src="bhm_creddle_res_oct2021 copy.jpg" alt="resume"/></a><br></br>
             </div>
         )
     }
